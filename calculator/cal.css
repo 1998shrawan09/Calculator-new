@@ -1,0 +1,18 @@
+body{
+    border-radius: 25px;
+    background: url("image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+    color: green;
+}
+button{
+    margin-left: 620px;
+    height: 40px;
+    border-radius: 10px;
+}
+
